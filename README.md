@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shannafdnd
-- 👀 I’m interested in designing websites.
-- 🌱 I’m currently learning how to code.
+- 👀 I’m interested in frontend design.
+- 🌱 I’m currently studying Frontend Design and Development at HVA.
 - 📫 How to reach me: shanna.vanderwerve@gmail.com
 
 <!---
